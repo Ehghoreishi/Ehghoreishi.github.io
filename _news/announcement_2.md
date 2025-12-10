@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-05-30 
+date: 2025-07-30 
 inline: true
 related_posts: false
 ---
 
-My preprint paper, titled "Cyrus+: A DRL-based Puncturing Solution to URLLC/eMBB Multiplexing in O-RAN," has been published on arXiv. [<a href="https://arxiv.org/abs/2506.00167">Preprint</a>]
+My preprint paper, titled "Cyrus+: A DRL-based Puncturing Solution to URLLC/eMBB Multiplexing in O-RAN," has been published at IEEE Transactions on Machine Learning in Communications and Networking (TMLCN). [<a href="https://ieeexplore.ieee.org/abstract/document/11195824">Preprint</a>]
