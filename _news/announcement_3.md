@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My paper, titled "PuRe: Learning-based Joint Puncturing and Reservation for Efficient URLLC/eMBB Multiplexing" has been accepted for publication at IEEE INFOCOM 2026.
+My paper, titled "RaP: Learning-based Joint Reservation and Puncturing for Efficient URLLC/eMBB Multiplexing" has been accepted for publication at IEEE INFOCOM 2026.
