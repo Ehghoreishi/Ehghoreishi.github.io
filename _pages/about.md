@@ -10,8 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Bradley Department of ECE</p>
-    <p>Virginia Tech, Blacksburg, VA</p>
-    <p>ehsangh@vt.edu</p>
+    <p>Virginia Tech</p>
+    <p><a href="mailto:ehsangh@vt.edu">ehsangh@vt.edu</a></p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
